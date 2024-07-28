@@ -1,2 +1,7 @@
-# SvMetRy-IpGrabber
-An IPGrabber that grabs discord tokens and can get the GPS location if the guy is dumb
+# THE IPGRABBER WILL BYPASS VPNS ONLY IF THE PERSON CLICKS "ALLOW" ON THE LOCATION PROMPT
+# CREDITS : @WasVR
+
+# ROADMAP
+- Can IPGrab
+- Can Bypass VPNs
+- Still cant grab tokenz
