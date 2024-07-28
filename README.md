@@ -5,3 +5,5 @@
 - Can IPGrab
 - Can Bypass VPNs
 - Still cant grab tokenz
+
+# IT SAVES IPS TO visitor_info.txt
